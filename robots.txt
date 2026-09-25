@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /login-admin
+Disallow: /login-user
+
+Sitemap: https://ipi.id/sitemap.xml
